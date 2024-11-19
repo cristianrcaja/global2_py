@@ -1,8 +1,16 @@
-if __name__ == "__main__":
-    conexao = ConexaoDB()  
-    conexao.conectar()  
+from ConexaoDB import ConexaoDB
+from CRUD import CRUD
+from SistemaGerenciamento import SistemaGerenciamento
 
-    sistema = SistemaGerenciamento(conexao)  
-    sistema.menu_principal()  
 
-    conexao.fechar()  
+conexao = ConexaoDB('rm558502', '080504', 'oracle.fiap.com.br:1521/orcl')
+conexao.conectar()
+
+
+crud = CRUD(conexao)
+
+
+sistema = SistemaGerenciamento(conexao, crud)
+
+
+sistema.menu_principal()
