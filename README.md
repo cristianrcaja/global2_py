@@ -19,7 +19,6 @@ O sistema oferece funcionalidades de inserção, alteração, exclusão e consul
 - [x] **Python**: Linguagem de programação utilizada para a implementação do sistema.
 - [x] **Oracle DB**: Banco de dados relacional utilizado para armazenar os dados de consumo e emissões.
 - [x] **JSON**: Formato utilizado para exportação e armazenamento de dados.
-- [x] **oracledb**: Biblioteca Python para conexão com o banco de dados Oracle.
 - [x] **CLI Interativa**: Interface de linha de comando para interação com o usuário, com opções de inserção, consulta, alteração e exclusão de dados.
 
 ## Link para o vídeo
