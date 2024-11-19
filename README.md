@@ -1,11 +1,5 @@
 # Luminis - Visualizador de Emissões de CO₂
 
-# PROJETO AINDA EM ANDAMENTO
-
-## Link para o vídeo
-
-( Ainda não desenvolvido ) 
-
 ## Descrição
 
 **Luminis** é um sistema interativo desenvolvido para monitorar e calcular as emissões de CO₂ geradas pelo consumo de energia de usuários. Com o objetivo de incentivar práticas sustentáveis e promover a redução do impacto ambiental, o sistema permite que os usuários visualizem o impacto de seu consumo energético e obtenham recomendações para reduzir suas emissões de CO₂.
@@ -28,3 +22,6 @@ O sistema oferece funcionalidades de inserção, alteração, exclusão e consul
 - [x] **oracledb**: Biblioteca Python para conexão com o banco de dados Oracle.
 - [x] **CLI Interativa**: Interface de linha de comando para interação com o usuário, com opções de inserção, consulta, alteração e exclusão de dados.
 
+## Link para o vídeo
+
+( Ainda não desenvolvido )
