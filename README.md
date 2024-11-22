@@ -15,6 +15,7 @@ O sistema oferece funcionalidades de inserção, alteração, exclusão e consul
 - [x] **Exportação de Dados**: Exporte os resultados da consulta para um arquivo JSON para análise posterior.
 
 ## Tecnologias Utilizadas
+( Obrigatório instalação do Flask, requests e oracledb)
 
 - [x] **Python**: Linguagem de programação utilizada para a implementação do sistema.
 - [x] **Oracle DB**: Banco de dados relacional utilizado para armazenar os dados de consumo e emissões.
@@ -23,4 +24,4 @@ O sistema oferece funcionalidades de inserção, alteração, exclusão e consul
 
 ## Link para o vídeo
 
-( Ainda não desenvolvido )
+https://www.youtube.com/watch?v=trbFRtswIfM
